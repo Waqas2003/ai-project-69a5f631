@@ -1,0 +1,16 @@
+{
+  "name": "pak-wheels",
+  "version": "0.1.0",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "tailwindcss": "^3.0.2",
+    "autoprefixer": "^10.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test"
+  }
+}
